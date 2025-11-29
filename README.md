@@ -1,16 +1,17 @@
-# p2crud
+# Descrição
 
-A new Flutter project.
+Aplicação Flutter simples para CRUD de tarefas usando `sqflite` e `path_provider`.
 
-## Getting Started
+## Dados do aluno
 
-This project is a starting point for a Flutter application.
+- Nome: Gabriel C Gortan
+- RA: 202410045
 
-A few resources to get you started if this is your first Flutter project:
+## Campo personalizado recebido
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- `projetoRelacionado`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dificuldade encontrada
+
+- A exportação e exibição do banco no VSCode apresentou dificuldades por conta do emulador e do path do `adb`.
+
